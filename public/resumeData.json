@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Kinshuk Kishore",
+    "occupation": "Django Developer",
+    "description": "Python specialist & College Enthusiast pursuing BTech-CSE",
+    "image": "4.jpg",
+    "bio": "My name is Kinshuk, I'm a Project Developer. Currently I'm Studying at DSU while also looking for Internship ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "kinshukkishore1.10@gmail.com",
+    "phone": "9380432971",
+    "address": {
+      "street": "Sowparnika Apartment",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560100"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "#",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "#",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Sometimes its best to imagine new possibilities and then bring them to life.",
+    "education": [
+      {
+        "school": "Dayananda Sagar University",
+        "degree": "Bachelor of Technology In Computer Science",
+        "graduated": "Not Yet",
+        "description": "Undergraduate"
+      }
+    ],
+    "work": [
+      {
+        "company": "Coterieco",
+        "title": "Team Member & Django Specialist",
+        "years": "April-June",
+        "description": "Working as an Intern to learn about day to day job."
+      },
+      {
+        "company": "TEDxDSU",
+        "title": "Event Coordinator",
+        "years": "August-September",
+        "description": "Ted Talks is what a real Inpiration"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "SQLite",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "FOUR Years Blog Page",
+        "category": "Blog Page Developed using Bootstrap and CSS",
+        "image": "1.png",
+        "url": "http://fouryears.epizy.com/"
+      },
+      {
+        "title": "WEFIVE Quora Website",
+        "category": "Developed using MongoDB,NodeJS,CSS & Bootstrap",
+        "image": "2.png",
+        "url": "https://wefive.herokuapp.com/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Leave the fireworks for those who cast no spark of their own.",
+        "user": "Karen Abbott "
+      },
+      {
+        "text": "Kinshuk took his responsibility in utmost serious manner and performed his duties in a diligent and a satisfactory manner. He was a valuable member of our back-end team.",
+        "user": "Prashant Kumar"
+      }
+    ]
+  }
+}
